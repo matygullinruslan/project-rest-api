@@ -57,7 +57,6 @@ list_users = {
     "required": ["page", "per_page", "total", "total_pages", "data", "support"]
 }
 
-
 update_users = {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
