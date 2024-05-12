@@ -25,7 +25,7 @@
 
 #### 1. Открыть <a target="_blank" href="https://jenkins.autotests.cloud/job/project-rest-api/">проект</a>
 
-![This is an image](/images/jenkins.PNG)
+![This is an image](/images/Jenkins.PNG)
 
 #### 2. Выбрать пункт **Build with Parameters**
 
