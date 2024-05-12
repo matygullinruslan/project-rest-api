@@ -42,6 +42,8 @@
 
 ![This is an image](/images/allure_testops.PNG)
 
+![This is an image](/images/allure_testops1.PNG)
+
 #### 8. Также проект имеет интеграцию с Jira
 
 ![This is an image](/images/jira.png)
