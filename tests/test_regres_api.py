@@ -45,7 +45,7 @@ def test_update_user_status_code():
 @allure.story("Получение списка пользователей")
 def test_get_list_user_status_code():
     endpoint = '/api/users'
-    params = {"page": "2"}
+    params = {"images": "2"}
     response = requests.get(url + endpoint, json=params)
 
     assert response.status_code == 200

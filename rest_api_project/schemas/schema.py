@@ -27,7 +27,7 @@ list_users = {
     "$schema": "http://json-schema.org/draft-04/schema#",
     "type": "object",
     "properties": {
-        "page": {
+        "images": {
             "type": "integer"
         },
         "per_page": {
@@ -223,7 +223,7 @@ list_users = {
         }
     },
     "required": [
-        "page",
+        "images",
         "per_page",
         "total",
         "total_pages",
